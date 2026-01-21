@@ -1,5 +1,7 @@
 # OpenCode Mobile
 
+> **Disclaimer**: This is an unofficial, community-built mobile interface for OpenCode. It is not affiliated with or endorsed by the OpenCode team. Use at your own risk.
+
 A React Native mobile interface for OpenCode - run commands, get outputs, notifications, and interact with your AI coding assistant from your mobile device.
 
 ## Features
